@@ -1,0 +1,41 @@
+{
+  "basics":{
+    "name":" Katta Sarath Teja",
+    "phone":"9848022338",
+    "photo":"IMAGE.jpg",
+    "email":"sarath@gamil.com"
+  },
+  "education":[{
+    "course":"B.Tech(computer science and engineering)",
+    "college":"Gudlavalleru Engineering College",
+  "data":["2015-2019","90%"]
+  },
+  {
+  "course":"Inter(MPC)",
+  "college":"Narayana Junior College",
+  "data":["2013-2015","95%"]
+  },
+  {
+  "course":"SSC",
+  "college":"Sree Gurudatta High School",
+"data":["2012-2013","92%"]
+  }],
+  "skills":[{
+       "name":"Languages known",
+      "info":["c","python","java","javascript"]
+  },
+  {
+    "name":"Operating System",
+   "info":["Linux","Windows","fedora","Unix"]
+ },
+ {
+   "name":"Libraries",
+  "info":["Jquery","Bootstrap"]
+},
+{
+  "name":"databases",
+ "info":["Mysql","pl/sql","mysqlite","oracle"]
+}
+  ]
+
+}
